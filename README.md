@@ -21,7 +21,7 @@ A set is an unordered collection of unique elements in Python. Sets are useful f
 
 ## Dictionaries
 
-A dictionary is an unordered collection of key-value pairs in Python. Dictionaries are useful for storing and retrieving data with a unique key. They are created using curly braces, with each key-value pair separated by a colon, like `my_dict = {'name': 'John', 'age': 25}`.
+A dictionary is an unordered collection of key-value pairs in Python. Dictionaries are useful for storing and retrieving data with a unique key. They are created using curly braces, with each key-value pair separated by a colon, like `my_dict = {'name': 'sam', 'age': 22}`.
 
 ## Tuples
 
