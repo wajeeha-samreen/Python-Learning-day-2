@@ -5,7 +5,7 @@ This repository contains examples and explanations of common Python data structu
 ## Table of Contents
 
 - [Lists](#lists)
-- [Sets](#sets)
+- [Sets](#sets) 
 - [Dictionaries](#dictionaries)
 - [Tuples](#tuples)
 - [Arrays (NumPy)](#arrays-numpy)
